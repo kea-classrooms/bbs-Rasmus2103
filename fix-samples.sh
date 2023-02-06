@@ -1,4 +1,4 @@
-cd $/workspaces/bbs-Rasmus2103/samples
+cd samples
  mv animals/countries/ .
  mv countries/movies/ .
  mv animals/Monkies.txt animals/Monkeys.txt 
